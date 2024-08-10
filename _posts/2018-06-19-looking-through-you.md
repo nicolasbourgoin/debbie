@@ -1,6 +1,6 @@
 ---
 title: Looking Through You
-date: 2018-06-19 16:22:00 Z
+date: 2018-06-19 17:22:00 +01:00
 dimensions: 10"x15"
 image: "/uploads/looking-through-you.png"
 layout: post

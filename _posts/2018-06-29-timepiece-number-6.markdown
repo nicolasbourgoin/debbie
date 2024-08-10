@@ -1,6 +1,6 @@
 ---
 title: 'Timepiece #6'
-date: 2018-06-29 22:43:00 Z
+date: 2018-06-29 23:43:00 +01:00
 categories:
 - collage
 tags:
